@@ -1,3 +1,4 @@
 language: python
 python:
- - 3.8
+ - 3.8 
+script: run app sh -c "python tp1tache1.py test"
